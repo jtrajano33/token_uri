@@ -2,5 +2,8 @@
     "name": "Saya",
     "description": "Saya is a dragon djinn ascended to its human form that's always been mistaken as a demon because of her wing's appearance. She once saved a child from werewolves but instead of thanking her, villagers threw mud at her calling her a demon. Saya uses ice type spells to pierce into enemies' defence.",
     "image": "https://ipfs.infura.io/ipfs/QmUDQdkK6DVm6r281TMgskRDdU7WK6x2dkw2TMCiJ9mzYF",
-    "image_alt": ""
+    "properties": {
+        "attribute": "water",
+        "rarity": 5
+    }
 }
