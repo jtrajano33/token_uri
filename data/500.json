@@ -4,6 +4,7 @@
     "image": "https://ipfs.infura.io/ipfs/QmUDQdkK6DVm6r281TMgskRDdU7WK6x2dkw2TMCiJ9mzYF",
     "properties": {
         "attribute": "water",
-        "rarity": 5
+        "rarity": 5,
+        "type": "card"
     }
 }
